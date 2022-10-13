@@ -1,6 +1,6 @@
 {
   "name": "yenmoc-assets",
-  "version": "1.0.18",
+  "version": "1.0.19",
   "description": "yenmoc asset storage",
   "main": "index.js",
   "scripts": {
